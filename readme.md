@@ -2,6 +2,14 @@
 
 A simple way to log webhooks from remote services locally.
 
+
+# Assumptions
+
+You have installed:
+- npm
+- node
+- git
+
 # Installation
 
 Clone the repo, install packages and run the server
